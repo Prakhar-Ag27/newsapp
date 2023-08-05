@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Stephen Johnson",
+            "title": "What an AI Girlfriend Can (and Can't) Do",
+            "description": "I’ve been trying to cheat on my wife with an artificial intelligence all week, and it’s proving so difficult I might have to resort to an affair with a human being.Read more...",
+            "url": "https://lifehacker.com/what-an-ai-girlfriend-can-and-cant-do-1850666245",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b4392bbb45b12138cf48ff90bf14ec78.jpg",
+            "publishedAt": "2023-07-25T14:30:00Z",
+            "content": "Ive been trying to cheat on my wife with an artificial intelligence all week, and its proving so difficult I might have to resort to an affair with a human being.\r\nIts not that I dont have options. T… [+8535 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Leicester City: Relegated EPL team delights fans on Asia tour",
+            "description": "Under Thai ownership the club won the Premier League before dropping out of English football's top tier.",
+            "url": "https://www.bbc.co.uk/news/business-66241181",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1198F/production/_130497027_leicesternew.jpeg.jpg",
+            "publishedAt": "2023-07-27T01:29:41Z",
+            "content": "For almost a quarter of a century Indonesian football fan Bagas Wira Paksi has watched the fortunes of his favourite club wax and wane from thousands of kilometres away.\r\nBut this weekend, he hopes t… [+6595 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Joe Lewis: UK tycoon bailed in US fraud case but can't use superyacht",
+            "description": "The $300m (£230m) bail bond for Spurs owner Joe Lewis is secured by his luxury boat and private aircraft.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-66274636",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10858/production/_130527676_joelewis.jpg",
+            "publishedAt": "2023-07-26T19:51:55Z",
+            "content": "A New York City court has imposed sweeping restrictions on British billionaire Joe Lewis as he awaits trial on insider trading charges. \r\nMr Lewis, 86, pleaded not guilty and was granted $300m (£230m… [+1313 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Stephen Clark",
+            "title": "A nearly 20-year ban on human spaceflight regulations is set to expire",
+            "description": "Commercial space industry argues for extension to moratorium on regulations.",
+            "url": "https://arstechnica.com/space/2023/07/a-nearly-20-year-ban-on-human-spaceflight-regulations-is-set-to-expire/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1358501579-760x380.jpg",
+            "publishedAt": "2023-07-27T11:00:37Z",
+            "content": "Enlarge/ A crew of six passengers, including former professional football player and television anchor Michael Strahan, stroll past the Blue Origin New Shepard booster they rode into space in Decembe… [+4346 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Geneva Abdul",
+            "title": "BBC apologises for LGBTQ+ question to Morocco’s football captain",
+            "description": "Broadcaster says reporter asked ‘inappropriate’ question before women’s World Cup match The BBC has apologised after one of its reporters asked Morocco’s football captain an “inappropriate” question before the team’s World Cup match against Germany on Monday.…",
+            "url": "https://www.theguardian.com/football/2023/jul/25/bbc-apologises-lgbtq-rights-question-morocco-captain-womens-world-cup",
+            "urlToImage": "https://i.guim.co.uk/img/media/8a8b8bef5936e83a4efc39b9396e398f27ac807f/0_0_5500_3300/master/5500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=70b5b1769919aeb4aadf38fe5216a383",
+            "publishedAt": "2023-07-25T10:11:17Z",
+            "content": "The BBC has apologised after one of its reporters asked Moroccos football captain an inappropriate question before the teams World Cup match against Germany on Monday.\r\nMoroccos debut at the tourname… [+8596 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Presented by Faye Carruthers, with Jessy Parker Humphreys, Ceylon Andi Hickman and Júlia Bellas. Produced by Joel Grove, original music by Laura Iredale and our executive producer is Max Sanderson.",
+            "title": "Heartbreak for Ireland, history for the Philippines - Women’s Football Weekly",
+            "description": "Faye Carruthers is joined by Jessy Parker Humphreys, Ceylon Andi Hickman and Júlia Bellas to discuss Ireland’s elimination from the Women’s World Cup, while Group A is wide open following the Philippines’ historic victory against New Zealand.Rate, review, sha…",
+            "url": "https://www.theguardian.com/football/audio/2023/jul/26/world-cup-podcast-ireland-philippines-womens-football-weekly",
+            "urlToImage": "https://i.guim.co.uk/img/media/ecc853aa421076802a023bb81e2385e6c4327454/0_107_2604_1562/master/2604.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6340fabc7bb3f20fd7bbf5c5743dab46",
+            "publishedAt": "2023-07-26T17:56:35Z",
+            "content": "Rate, review, share on Apple Podcasts, Soundcloud, Audioboom, Mixcloud, Acast and Stitcher, and join the conversation on Facebook, Twitter and email.\r\nOn the podcast today: Ireland surely deserve mor… [+434 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Scott Murray",
+            "title": "Football Daily | Are there no more worlds left for Wrexham to conquer?",
+            "description": "Sign up now! Sign up now! Sign up now? Sign up now!Attempts to rebrand a long-established product can prove a risky business. Take for example the questionable rechristening of Twitter, a name part and parcel of internet vernacular, with the meaningless nepo-…",
+            "url": "https://www.theguardian.com/football/2023/jul/25/football-daily-email-wrexham-hollywood",
+            "urlToImage": "https://i.guim.co.uk/img/media/71070a2449785b118041d8bc74a04c26d11dd3b5/0_37_2619_1571/master/2619.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=444fe0ad02f42bca1ee8399fa03cb8b2",
+            "publishedAt": "2023-07-25T15:29:25Z",
+            "content": "FROM CLWYD TO CALIFORNIA VIA CAKALACKY IN 12 MONTHS\r\nAttempts to rebrand a long-established product can prove a risky business. Take for example the questionable rechristening of Twitter, a name part… [+11725 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Jonathan Liew",
+            "title": "Kylian Mbappé to Saudi talk shows football is now poker for world’s richest",
+            "description": "The potential move would effectively be a deal between two states – the natural reaction is to be dazed and confusedAt the time of writing, officials from Al-Hilal are in Paris negotiating the transfer of Kylian Mbappé, who will be expected to replace some of…",
+            "url": "https://www.theguardian.com/football/2023/jul/26/kylian-mbappe-to-saudi-talk-shows-football-is-now-poker-for-worlds-richest",
+            "urlToImage": "https://i.guim.co.uk/img/media/42de6660e3252ce44fe9414f0847a4e18074fb2d/0_0_4668_2801/master/4668.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=ddf0c8aaf0869b7a711a3ae638926cfb",
+            "publishedAt": "2023-07-26T19:00:14Z",
+            "content": "At the time of writing, officials from Al-Hilal are in Paris negotiating the transfer of Kylian Mbappé, who will be expected to replace some of the 26 goals provided last season by Odion Ighalo. With… [+10347 chars]"
+        }
+    ]
+}
